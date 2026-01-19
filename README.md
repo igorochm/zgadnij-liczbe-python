@@ -1,4 +1,4 @@
-
+![Python Check](https://github.com/igorochm/zgadnij-liczbe-python/actions/workflows/check.yml/badge.svg)
 # 🎯 Gra: Zgadnij Liczbę (Guess The Number)
 
 ![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)
