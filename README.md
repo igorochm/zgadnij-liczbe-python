@@ -1,4 +1,3 @@
-![Status](https://github.com/TWOJA_NAZWA_UZYTKOWNIKA/TWOJA_NAZWA_REPOZYTORIUM/actions/workflows/check.yml/badge.svg)
 
 # 🎯 Gra: Zgadnij Liczbę (Guess The Number)
 
