@@ -31,4 +31,19 @@ Poniższe punkty zostały przeniesione na tablicę Kanban jako zadania do wykona
 - [x] **Pętla Główna**: Mechanizm pozwalający na wielokrotne zgadywanie.
 - [x] **System Walidacji**: Obsługa błędów `ValueError` przy `input()`.
 - [x] **Poziomy Trudności**: Słownik definiujący liczbę prób dla każdego poziomu.
-- [x] **Inter
+- [x] **Interfejs**: Czytelne i kolorowe komunikaty w konsoli.
+- [x] **High Score**: Zapamiętywanie najlepszego wyniku w danej sesji.
+- [x] **Obsługa Wyjścia**: Możliwość zamknięcia gry w dowolnym momencie.
+- [x] **Podsumowanie**: Wyświetlenie komunikatu końcowego z wynikiem.
+- [x] **Instrukcja**: Krótki samouczek wyświetlany na starcie.
+- [x] **CI/CD**: Konfiguracja automatycznych testów na GitHubie.
+
+---
+
+## 🚀 Instalacja i Uruchomienie
+
+Aby uruchomić grę lokalnie, wykonaj poniższe kroki:
+
+1. **Sklonuj repozytorium**:
+   ```bash
+   git clone [https://github.com/TWOJA-NAZWA/zgadnij-liczbe-python.git](https://github.com/TWOJA-NAZWA/zgadnij-liczbe-python.git)
