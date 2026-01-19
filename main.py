@@ -1,3 +1,5 @@
+# Gra napisana w Pythonie - Projekt zaliczeniowy
+
 import random
 
 def game():
