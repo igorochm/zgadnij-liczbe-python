@@ -48,3 +48,5 @@ Aby uruchomić grę lokalnie, wykonaj poniższe kroki:
 1. **Sklonuj repozytorium**:
    ```bash
    git clone [https://github.com/TWOJA-NAZWA/zgadnij-liczbe-python.git](https://github.com/TWOJA-NAZWA/zgadnij-liczbe-python.git)
+
+   Autor: Igor Ochmanski
